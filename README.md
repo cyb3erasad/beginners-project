@@ -1,1 +1,1 @@
-This is a digital clock project which I made using Python library PyQt5 as a beginner programmer.
+I made some basic projects in python as a beginner programmer.
