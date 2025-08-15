@@ -1,64 +1,90 @@
-# 🛠️ Python Mini Projects Collection
+# 🛠️ My Python Basic Projects Collection
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![PyQt5](https://img.shields.io/badge/GUI-PyQt5-brightgreen?logo=qt)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Open Source](https://img.shields.io/badge/Open%20Source-💻-success)
-
-A collection of **beginner to intermediate level Python projects** — each project focuses on practical applications with extra features beyond the basics.  
-Perfect for learning, experimenting, and showcasing Python skills.
+Welcome to my **Python Basic Projects Repository**!  
+This repository contains a collection of small, beginner-friendly Python projects I’ve created while learning and practicing programming concepts.  
+Each project is simple yet covers important fundamentals of Python programming.
 
 ---
 
 ## 📂 Projects Included
 
-### 1️⃣ Physics Calculator ⚡
-- Not just a basic calculator — includes **10+ physics formulas**.
-- Calculate:
-  - Work
-  - Power
-  - Velocity
-  - Displacement
-  - Acceleration
-  - Force
-  - Kinetic Energy
-  - Potential Energy
-  - And more...
-- **User-friendly menu** for quick selection.
+### 1️⃣ **Scientific Calculator (with Physics Formulas)**
+A calculator that can perform:
+- Basic arithmetic operations
+- Physics formulas such as Work, Power, Velocity, Displacement, and more (10-11 formulas)
+
+**Tech Used:** Python  
+**Type:** Console Application
 
 ---
 
-### 2️⃣ Digital Clock ⏰ (PyQt5)
-- Real-time **digital clock** interface.
-- Built with **PyQt5** for a modern GUI.
-- 12-hour or 24-hour format support.
-- Clean and minimal design.
+### 2️⃣ **Digital Clock (PyQt5)**
+A simple yet elegant digital clock built using **PyQt5**.
+
+**Features:**
+- Real-time updates
+- Modern UI with PyQt5
+
+**Tech Used:** Python, PyQt5  
+**Type:** GUI Application
 
 ---
 
-### 3️⃣ Basic Bus Booking System 🚌
-- Allows users to:
-  - View available buses.
-  - Book seats.
-  - Display booking details.
-- Simple **console-based UI** for easy interaction.
+### 3️⃣ **Bus Booking System**
+A basic console-based booking system where users can:
+- View available buses
+- Book seats
+- See ticket details
+
+**Tech Used:** Python  
+**Type:** Console Application
 
 ---
 
-### 4️⃣ Simple ATM Simulator 🏧
-- Console-based ATM simulation.
-- Features:
-  - Check account balance.
-  - Deposit money.
-  - Withdraw money (with balance check).
-  - Exit option with transaction summary.
-- Great for learning **conditional logic** and **loops** in Python.
+### 4️⃣ **Simple ATM Simulator**
+A console application to simulate basic ATM functionalities:
+- Withdraw
+- Deposit
+- Check balance
+
+**Tech Used:** Python  
+**Type:** Console Application
 
 ---
 
-## 🛠 Tech Stack
-- **Python 3**
-- **PyQt5** (for GUI-based projects)
-- **Standard Python Libraries** (for console projects)
+### 5️⃣ **Restaurant Ordering App (Console)**
+A text-based restaurant ordering system where:
+- Menu items are displayed
+- Users can order food
+- Bill is generated
+
+**Tech Used:** Python  
+**Type:** Console Application
+
+---
+
+### 6️⃣ **Rock Paper Scissors Game (Console)**
+A fun mini-game where the user plays against the computer.
+
+**Tech Used:** Python  
+**Type:** Console Game
+
+---
+
+### 7️⃣ **Number Guessing Game (Console)**
+A simple guessing game where:
+- The computer picks a random number
+- User tries to guess it with hints
+
+**Tech Used:** Python  
+**Type:** Console Game
+
+---
+
+## 📌 How to Run These Projects
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/cyb3rasad/cyb3r.asad.git
 
 
