@@ -10,7 +10,7 @@ Each project is simple, easy to understand, and focuses on **core Python skills*
 
 ### 1️⃣ Scientific Calculator (with Physics Formulas)
 A calculator that can perform:
-- Basic arithmetic operations ➕ 
+- Basic arithmetic operations ➕ ➖ 
 - Physics formulas such as Work, Power, Velocity, Displacement, and more (10-11 formulas)
 
 **Tech Used:** Python  
