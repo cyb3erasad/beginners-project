@@ -81,11 +81,32 @@ A simple guessing game where:
 
 ---
 
+### 8️⃣ Basic Quiz Game (Console)
+A question-and-answer style **quiz game** where:
+- User answers multiple-choice questions ❓
+- Score is displayed at the end
+
+**Tech Used:** Python  
+**Type:** Console Game
+
+---
+
+### 9️⃣ Basic Dice Game (Console)
+A simple dice rolling game 🎲 where:
+- User rolls the dice
+- Computer generates random dice values
+
+**Tech Used:** Python  
+**Type:** Console Game
+
+---
+
 ## 🛠 How to Run These Projects
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/cyb3rasad/cyb3r.asad.git
+   git clone https://github.com/cyb3rasad/beginners-project.git
+
 
 
 
