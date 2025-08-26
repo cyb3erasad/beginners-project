@@ -2,7 +2,7 @@
 
 Welcome to my **Python Basic Projects Repository**! 🎯  
 This repository is a collection of beginner-friendly Python projects I’ve built while learning and practicing programming concepts.  
-Each project is simple, easy to understand, and focuses on **core Python skills**.
+Each project is simple, easy to understand, and focuses on **core Python skills***.
 
 ---
 
