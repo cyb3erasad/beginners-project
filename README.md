@@ -23,7 +23,7 @@ A simple yet elegant **digital clock** built with PyQt5.
 
 **Features:**
 - Real-time updates ⏰
-- Modern and clean UI.
+- Modern and clean UI
 
 **Tech Used:** Python, PyQt5   
 **Type:** GUI Application
