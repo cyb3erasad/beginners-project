@@ -84,7 +84,7 @@ A simple guessing game where:
 ### 8️⃣ Basic Quiz Game (Console)
 A question-and-answer style **quiz game** where:
 - User answers multiple-choice questions ❓
-- Score is displayed at the end.............
+- Score is displayed at the end
 
 **Tech Used:** Python  
 **Type:** Console Game
