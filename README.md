@@ -97,7 +97,7 @@ A simple dice rolling game 🎲 where:
 - Computer generates random dice values
 
 **Tech Used:** Python  
-**Type:** Console Game.
+**Type:** Console Game
 
 ---
 
