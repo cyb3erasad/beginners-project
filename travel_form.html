@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Travel Form 2025</title>
+    <style>
+        body {
+            font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #e0f7fa, #b2ebf2);
+            color: #004d40;
+            margin: 0;
+            padding: 2rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        h1 {
+            color: #00695c;
+            text-align: center;
+            margin-bottom: 2rem;
+            font-size: 2.2rem;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+        }
+
+        form {
+            background: #ffffff;
+            padding: 2rem;
+            border-radius: 12px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 420px;
+        }
+
+        form div {
+            margin-bottom: 1.2rem;
+            display: flex;
+            flex-direction: column;
+        }
+
+        label {
+            font-weight: bold;
+            margin-bottom: 0.4rem;
+            color: #004d40;
+        }
+
+        input,
+        textarea {
+            padding: 0.7rem;
+            border: 1px solid #b2dfdb;
+            border-radius: 8px;
+            font-size: 1rem;
+            transition: border 0.3s, box-shadow 0.3s;
+        }
+
+        input:focus,
+        textarea:focus {
+            border-color: #00897b;
+            box-shadow: 0 0 6px rgba(0, 137, 123, 0.4);
+            outline: none;
+        }
+
+        textarea {
+            resize: none;
+            min-height: 80px;
+        }
+
+        button {
+            background: #00897b;
+            color: #fff;
+            border: none;
+            padding: 0.8rem;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1rem;
+            font-weight: bold;
+            transition: background 0.3s, transform 0.2s;
+        }
+
+        button:hover {
+            background: #004d40;
+            transform: scale(1.05);
+        }
+
+        button:active {
+            transform: scale(0.95);
+        }
+    </style>
+</head>
+
+<body>
+    <h1> Karachi To Islamabad</h1>
+    <form action="">
+        <div>
+            <label for="name">Name</label>
+            <input id="name" type="text" placeholder="Enter your name" required>
+        </div>
+
+        <div>
+            <label for="age">Age</label>
+            <input id="age" type="number" placeholder="Enter your age" required>
+        </div>
+
+        <div>
+            <label for="phone">Contact</label>
+            <input id="phone" type="tel" placeholder="Enter your contact" required>
+        </div>
+
+        <div>
+            <label for="email">Email</label>
+            <input id="email" type="email" placeholder="Enter your email" required>
+        </div>
+
+        <div>
+            <label for="add">Address</label>
+            <textarea name="Address" id="add"></textarea>
+        </div>
+
+        <div>
+            <button type="submit">Submit</button>
+        </div>
+
+    </form>
+</body>
+
+</html>
