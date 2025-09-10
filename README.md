@@ -94,7 +94,7 @@ A question-and-answer style **quiz game** where:
 ### 9️⃣ Basic Dice Game (Console)
 A simple dice rolling game 🎲 where:
 - User rolls the dice
-- Computer generates random dice values.
+- Computer generates random dice values
 
 **Tech Used:** Python  
 **Type:** Console Game
