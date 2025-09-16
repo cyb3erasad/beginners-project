@@ -1,4 +1,4 @@
-# 🐍 My Python & Basic Projects Collection
+# 🐍 My Python, C, HTML Basic Projects Collection
 
 Welcome to my **Basic Projects Repository**! 🎯  
 This repository is a collection of beginner-friendly projects I’ve built while learning and practicing **Python, C, and Web Development**.  
