@@ -120,7 +120,7 @@ A **basic password manager** where:
 ---
 
 ### 1️⃣2️⃣ Encrypt & Decrypt Tool
-A simple tool to **encrypt and decrypt text** using cryptography.  
+A simple tool to **encrypt and decrypt text**. 
 
 **Tech Used:** Python  
 **Type:** Console Application  
@@ -146,8 +146,9 @@ A basic **countdown timer** with start and stop functionality ⏳.
 ### 1️⃣5️⃣ Nurse Management System
 A **C language project** that manages nurses in a hospital system:
 - View all nurses 👩‍⚕️  
-- Manage availability  
-- Book nurse shifts  
+- Add new nurses 
+- Book nurse shifts
+- generate bill  
 
 **Tech Used:** C  
 **Type:** Console Application  
