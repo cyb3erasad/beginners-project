@@ -2,7 +2,7 @@
 
 Welcome to my **Basic Projects Repository**! 🎯  
 This repository is a collection of beginner-friendly projects I’ve built while learning and practicing **Python, C, and Web Development**.  
-Each project is simple, easy to understand, and focuses on **core programming skills**./
+Each project is simple, easy to understand, and focuses on **core programming skills**.
 
 ---
 
