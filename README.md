@@ -1,12 +1,12 @@
-# 🐍 My Python Basic Projects Collection
+# 🐍 My Python Basic + Intermediate Projects Collection  
 
-Welcome to my **Basic Projects Repository**! 🎯  
-This repository is a collection of beginner-friendly projects I’ve built while learning and practicing **Python programming**.  
-Each project is simple, easy to understand, and focuses on **core programming and logical thinking**.
+Welcome to my **Python Projects Repository**! 🎯  
+This repository is a collection of beginner to intermediate-level projects I’ve built while learning and practicing **Python programming**.  
+Each project is simple, logical, and helps strengthen my understanding of programming concepts.  
 
 ---
 
-## 🚀 Projects Included
+## 🚀 Projects Included  
 
 ### 1️⃣ Scientific Calculator (with Physics Formulas)
 A calculator that can perform:
@@ -53,7 +53,20 @@ An **upgraded version** of the YouTube Manager App that uses a **database** for 
 
 ---
 
-### 5️⃣ Bus Booking System
+### 5️⃣ Nurse Management System (Python)
+A **console-based nurse management system** that helps manage hospital staff efficiently.  
+
+**Features:**
+- Add, view, and delete nurse records 👩‍⚕️  
+- Assign duties and manage shifts  
+- Store and retrieve data easily  
+
+**Tech Used:** Python  
+**Type:** Console Application  
+
+---
+
+### 6️⃣ Bus Booking System
 A basic **console-based booking system** where users can:
 - View available buses 🚌  
 - Book seats  
@@ -64,7 +77,7 @@ A basic **console-based booking system** where users can:
 
 ---
 
-### 6️⃣ Simple ATM Simulator
+### 7️⃣ Simple ATM Simulator
 A console application to simulate **basic ATM functionalities**:
 - Withdraw 💵  
 - Deposit 💰  
@@ -75,7 +88,7 @@ A console application to simulate **basic ATM functionalities**:
 
 ---
 
-### 7️⃣ Restaurant Ordering App (Console)
+### 8️⃣ Restaurant Ordering App (Console)
 A **text-based restaurant ordering system** where:
 - Menu items are displayed 🍔  
 - Users can place orders  
@@ -86,7 +99,7 @@ A **text-based restaurant ordering system** where:
 
 ---
 
-### 8️⃣ Rock Paper Scissors Game (Console)
+### 9️⃣ Rock Paper Scissors Game (Console)
 A fun **mini-game** where the user plays against the computer.  
 
 **Tech Used:** Python  
@@ -94,7 +107,7 @@ A fun **mini-game** where the user plays against the computer.
 
 ---
 
-### 9️⃣ Number Guessing Game (Console)
+### 🔟 Number Guessing Game (Console)
 A simple guessing game where:
 - The computer picks a random number 🔢  
 - User tries to guess it with hints  
@@ -104,7 +117,7 @@ A simple guessing game where:
 
 ---
 
-### 🔟 Basic Quiz Game (Console)
+### 1️⃣1️⃣ Basic Quiz Game (Console)
 A question-and-answer style **quiz game** where:
 - User answers multiple-choice questions ❓  
 - Score is displayed at the end  
@@ -114,7 +127,7 @@ A question-and-answer style **quiz game** where:
 
 ---
 
-### 1️⃣1️⃣ Basic Dice Game (Console)
+### 1️⃣2️⃣ Basic Dice Game (Console)
 A simple dice rolling game 🎲 where:
 - User rolls the dice  
 - Computer generates random dice values  
@@ -124,7 +137,7 @@ A simple dice rolling game 🎲 where:
 
 ---
 
-### 1️⃣2️⃣ QR Code Generator
+### 1️⃣3️⃣ QR Code Generator
 A **QR code generator tool** that creates QR codes for any text or link.  
 
 **Tech Used:** Python (qrcode library)  
@@ -132,7 +145,7 @@ A **QR code generator tool** that creates QR codes for any text or link.
 
 ---
 
-### 1️⃣3️⃣ Password Manager
+### 1️⃣4️⃣ Password Manager
 A **basic password manager** where:
 - User can save account credentials 🔑  
 - Encryption is used for security  
@@ -142,15 +155,15 @@ A **basic password manager** where:
 
 ---
 
-### 1️⃣4️⃣ Encrypt & Decrypt Tool
-A simple tool to **encrypt and decrypt text**. 
+### 1️⃣5️⃣ Encrypt & Decrypt Tool
+A simple tool to **encrypt and decrypt text**.  
 
 **Tech Used:** Python  
 **Type:** Console Application  
 
 ---
 
-### 1️⃣5️⃣ Basic Credit Card Checker
+### 1️⃣6️⃣ Basic Credit Card Checker
 A program that verifies if a given credit card number is **valid or invalid** using the **Luhn algorithm**.  
 
 **Tech Used:** Python  
@@ -158,7 +171,7 @@ A program that verifies if a given credit card number is **valid or invalid** us
 
 ---
 
-### 1️⃣6️⃣ Timer
+### 1️⃣7️⃣ Timer
 A basic **countdown timer** with start and stop functionality ⏳.  
 
 **Tech Used:** Python  
