@@ -54,7 +54,8 @@ An **upgraded version** of the YouTube Manager App that uses a **database** for 
 ---
 
 ### 5️⃣ Nurse Management System (Python)
-A **console-based nurse management system** that helps manage hospital staff efficiently.  
+A **Python console application** to manage nurse bookings for patients in a hospital or clinic.  
+This project helps to **view nurses, check availability, book, generate bills, and manage payments** easily.  
 
 ## ✨ Features  
 
