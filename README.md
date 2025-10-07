@@ -1,17 +1,17 @@
 # 🐍 My Python Basic Projects Collection
 
 Welcome to my **Basic Projects Repository**! 🎯  
-This repository is a collection of beginner-friendly projects I’ve built while learning and practicing **Python, C, and Web Development**.  
-Each project is simple, easy to understand, and focuses on **core programming skills**.
+This repository is a collection of beginner-friendly projects I’ve built while learning and practicing **Python programming**.  
+Each project is simple, easy to understand, and focuses on **core programming and logical thinking**.
 
 ---
 
 ## 🚀 Projects Included
 
-### 1️⃣ Scientific Calculator (with Physics Formulas) - Python
+### 1️⃣ Scientific Calculator (with Physics Formulas)
 A calculator that can perform:
-- Basic arithmetic operations ➕ ➖ ✖️ ➗
-- Physics formulas such as Work, Power, Velocity, Displacement, and more (10-11 formulas)
+- Basic arithmetic operations ➕ ➖ ✖️ ➗  
+- Physics formulas such as Work, Power, Velocity, Displacement, and more (10–11 formulas)
 
 **Tech Used:** Python  
 **Type:** Console Application  
@@ -30,7 +30,30 @@ A simple yet elegant **digital clock** built with PyQt5.
 
 ---
 
-### 3️⃣ Bus Booking System
+### 3️⃣ YouTube Manager App
+A **console-based YouTube management app** that lets you:
+- Add, view, and update videos  
+- Manage video names and durations  
+
+**Tech Used:** Python  
+**Type:** Console Application  
+
+---
+
+### 4️⃣ YouTube Manager App (with SQLite Database)
+An **upgraded version** of the YouTube Manager App that uses a **database** for storage.  
+
+**Features:**
+- Add, view, update, and delete videos  
+- Data stored in an SQLite database  
+- Clean and modular code  
+
+**Tech Used:** Python, SQLite  
+**Type:** Console Application  
+
+---
+
+### 5️⃣ Bus Booking System
 A basic **console-based booking system** where users can:
 - View available buses 🚌  
 - Book seats  
@@ -41,7 +64,7 @@ A basic **console-based booking system** where users can:
 
 ---
 
-### 4️⃣ Simple ATM Simulator
+### 6️⃣ Simple ATM Simulator
 A console application to simulate **basic ATM functionalities**:
 - Withdraw 💵  
 - Deposit 💰  
@@ -52,7 +75,7 @@ A console application to simulate **basic ATM functionalities**:
 
 ---
 
-### 5️⃣ Restaurant Ordering App (Console)
+### 7️⃣ Restaurant Ordering App (Console)
 A **text-based restaurant ordering system** where:
 - Menu items are displayed 🍔  
 - Users can place orders  
@@ -63,7 +86,7 @@ A **text-based restaurant ordering system** where:
 
 ---
 
-### 6️⃣ Rock Paper Scissors Game (Console)
+### 8️⃣ Rock Paper Scissors Game (Console)
 A fun **mini-game** where the user plays against the computer.  
 
 **Tech Used:** Python  
@@ -71,7 +94,7 @@ A fun **mini-game** where the user plays against the computer.
 
 ---
 
-### 7️⃣ Number Guessing Game (Console)
+### 9️⃣ Number Guessing Game (Console)
 A simple guessing game where:
 - The computer picks a random number 🔢  
 - User tries to guess it with hints  
@@ -81,7 +104,7 @@ A simple guessing game where:
 
 ---
 
-### 8️⃣ Basic Quiz Game (Console)
+### 🔟 Basic Quiz Game (Console)
 A question-and-answer style **quiz game** where:
 - User answers multiple-choice questions ❓  
 - Score is displayed at the end  
@@ -91,7 +114,7 @@ A question-and-answer style **quiz game** where:
 
 ---
 
-### 9️⃣ Basic Dice Game (Console)
+### 1️⃣1️⃣ Basic Dice Game (Console)
 A simple dice rolling game 🎲 where:
 - User rolls the dice  
 - Computer generates random dice values  
@@ -101,7 +124,7 @@ A simple dice rolling game 🎲 where:
 
 ---
 
-### 🔟 QR Code Generator
+### 1️⃣2️⃣ QR Code Generator
 A **QR code generator tool** that creates QR codes for any text or link.  
 
 **Tech Used:** Python (qrcode library)  
@@ -109,7 +132,7 @@ A **QR code generator tool** that creates QR codes for any text or link.
 
 ---
 
-### 1️⃣1️⃣ Password Manager
+### 1️⃣3️⃣ Password Manager
 A **basic password manager** where:
 - User can save account credentials 🔑  
 - Encryption is used for security  
@@ -119,7 +142,7 @@ A **basic password manager** where:
 
 ---
 
-### 1️⃣2️⃣ Encrypt & Decrypt Tool
+### 1️⃣4️⃣ Encrypt & Decrypt Tool
 A simple tool to **encrypt and decrypt text**. 
 
 **Tech Used:** Python  
@@ -127,7 +150,7 @@ A simple tool to **encrypt and decrypt text**.
 
 ---
 
-### 1️⃣3️⃣ Basic Credit Card Checker
+### 1️⃣5️⃣ Basic Credit Card Checker
 A program that verifies if a given credit card number is **valid or invalid** using the **Luhn algorithm**.  
 
 **Tech Used:** Python  
@@ -135,7 +158,7 @@ A program that verifies if a given credit card number is **valid or invalid** us
 
 ---
 
-### 1️⃣4️⃣ Timer
+### 1️⃣6️⃣ Timer
 A basic **countdown timer** with start and stop functionality ⏳.  
 
 **Tech Used:** Python  
@@ -143,38 +166,8 @@ A basic **countdown timer** with start and stop functionality ⏳.
 
 ---
 
-### 1️⃣5️⃣ Nurse Management System
-A **C language project** that manages nurses in a hospital system:
-- View all nurses 👩‍⚕️  
-- Add new nurses 
-- Book nurse shifts
-- generate bill  
-
-**Tech Used:** C  
-**Type:** Console Application  
-
----
-
-### 1️⃣6️⃣ Scientific Calculator (C Language)
-A **calculator in C** that performs:  
-- Basic arithmetic operations ➕ ➖ ✖️ ➗  
-- Scientific functions like square root, power, etc.  
-
-**Tech Used:** C  
-**Type:** Console Application  
-
----
-
-### 1️⃣7️⃣ Travel Form (HTML & CSS)
-A **simple form webpage** where users can enter their details for booking travel ✈️.  
-
-**Tech Used:** HTML, CSS  
-**Type:** Web Project  
-
----
-
 ## 🛠 How to Run These Projects  
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/cyb3rasad/beginners-project.git
+   git clone https://github.com/cyb3erasad/beginners-project.git
