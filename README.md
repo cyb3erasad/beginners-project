@@ -56,10 +56,15 @@ An **upgraded version** of the YouTube Manager App that uses a **database** for 
 ### 5️⃣ Nurse Management System (Python)
 A **console-based nurse management system** that helps manage hospital staff efficiently.  
 
-**Features:**
-- Add, view, and delete nurse records 👩‍⚕️  
-- Assign duties and manage shifts  
-- Store and retrieve data easily  
+## ✨ Features  
+
+🔹 **View All Nurses** – See a complete list of all registered nurses.  
+🔹 **View Available Nurses** – Quickly check which nurses are available.  
+🔹 **Book Nurse** – Assign a nurse to a patient with booking details.  
+🔹 **Generate Bill** – Create a bill showing charges, payments, paid, due and status.  
+🔹 **Add Nurse** – Register a new nurse with speciality, charges, and availability.  
+🔹 **Update Payment** – Record payments and update dues for bookings.  
+🔹 **Exit** – Close the system safely.
 
 **Tech Used:** Python  
 **Type:** Console Application  
